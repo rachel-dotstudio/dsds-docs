@@ -4,8 +4,6 @@ description: Learn more about using custom elements.
 
 ---
 
-# Usage
-
 DotStudio components are built using Next.js and React they are just regular HTML elements that react to props and attributes.
 
 
