@@ -7,9 +7,9 @@ import { formatList } from 'astro/runtime/server/render/util.js';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'My Docs',
+			title: 'Dot Studio DS',
 			social: {
-				github: 'https://github.com/withastro/starlight',
+				github: 'https://github.com/rachel-dotstudio/',
 			},
 			head: [ {
 				tag: 'link',

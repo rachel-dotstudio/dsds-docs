@@ -57,7 +57,7 @@ All custom events are prefixed with `dsds-` to prevent collisions with standard 
 
 ## Methods
 
-Some components have methods you can call to trigger various behaviors. For example, you can set focus on a Shoelace input using the `focus()` method.
+Some components have methods you can call to trigger various behaviors. For example, you can set focus using the `focus()` method.
 
 ```html
 <dsds-input></dsds-input>
