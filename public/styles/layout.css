@@ -1,0 +1,8 @@
+:root {
+    --dsds-spacing-base: 1rem;
+    --dsds-spacing-2x-small: calc(var(--dsds-spacing-base) * 0.25);
+    --dsds-spacing-small: calc(var(--dsds-spacing-base) * 0.5);
+    --dsds-spacing-medium: calc(var(--dsds-spacing-base) * 1);
+    --dsds-spacing-large: calc(var(--dsds-spacing-base) * 2);
+    --dsds-spacing-2x-large: calc(var(--dsds-spacing-base) * 4);
+}
