@@ -7,7 +7,7 @@ description: Color tokens help maintain consistent use of color throughout your 
 Color tokens help maintain consistent use of color throughout your app. The Dot Studio colour palette is bold and modern, with a focus on accessibility and readability.
 
 ## Base Tokens
-Base color tokens are referenced using the `--dsds--color-base-{role}-{name}` CSS custom property, where `{role}` is the name of the group of colours and `{name}` is the friendly name for that colour. This allows you to search for a colour by its role or by its name.
+Base color tokens are referenced using the `--dsds-color-base-{role}-{name}` CSS custom property, where `{role}` is the name of the group of colours and `{name}` is the friendly name for that colour. This allows you to search for a colour by its role or by its name.
 
 
 
@@ -17,14 +17,14 @@ Base color tokens are referenced using the `--dsds--color-base-{role}-{name}` CS
     <code>--dsds-color-base-primary-<em>{name}</em></code>
   </div>
   <div class="color-palette__grid">
-    <div class="color-palette__example"><div class="color-palette__swatch" style="background-color: var(--dsds--color-base-primary-white);"></div>{white}</div>
-    <div class="color-palette__example"><div class="color-palette__swatch" style="background-color: var(--dsds--color-base-primary-black);"></div>{black}</div>
-    <div class="color-palette__example"><div class="color-palette__swatch" style="background-color: var(--dsds--color-base-primary-grey);"></div>{grey}</div>
-    <div class="color-palette__example"><div class="color-palette__swatch" style="background-color: var(--dsds--color-base-primary-purple);"></div>{purple}</div>
-    <div class="color-palette__example"><div class="color-palette__swatch" style="background-color: var(--dsds--color-base-primary-lilac);"></div>{lilac}</div>
-    <div class="color-palette__example"><div class="color-palette__swatch" style="background-color: var(--dsds--color-base-primary-pink);"></div>{pink}</div>
-    <div class="color-palette__example"><div class="color-palette__swatch" style="background-color: var(--dsds--color-base-primary-lime);"></div>{lime}</div>
-    <div class="color-palette__example"><div class="color-palette__swatch" style="background-color: var(--dsds--color-base-primary-orange);"></div>{orange}</div>
+    <div class="color-palette__example"><div class="color-palette__swatch" style="background-color: var(--dsds-color-base-primary-white);"></div>{white}</div>
+    <div class="color-palette__example"><div class="color-palette__swatch" style="background-color: var(--dsds-color-base-primary-black);"></div>{black}</div>
+    <div class="color-palette__example"><div class="color-palette__swatch" style="background-color: var(--dsds-color-base-primary-grey);"></div>{grey}</div>
+    <div class="color-palette__example"><div class="color-palette__swatch" style="background-color: var(--dsds-color-base-primary-purple);"></div>{purple}</div>
+    <div class="color-palette__example"><div class="color-palette__swatch" style="background-color: var(--dsds-color-base-primary-lilac);"></div>{lilac}</div>
+    <div class="color-palette__example"><div class="color-palette__swatch" style="background-color: var(--dsds-color-base-primary-pink);"></div>{pink}</div>
+    <div class="color-palette__example"><div class="color-palette__swatch" style="background-color: var(--dsds-color-base-primary-lime);"></div>{lime}</div>
+    <div class="color-palette__example"><div class="color-palette__swatch" style="background-color: var(--dsds-color-base-primary-orange);"></div>{orange}</div>
   </div>
 </div>
 
